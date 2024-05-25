@@ -2,7 +2,7 @@
 
 ## Quiz App made with Rust (Rocket), PostgreSQL, React, TypeScript and Tailwind
 
-https://github.com/dragan717080/RustReactQuiz/assets/135660124/bd969a7e-6b79-4f92-82eb-6063cc140e70
+https://github.com/dragan717080/RustReactQuiz/assets/135660124/a915e788-90ba-462f-845d-4714db788fc8
 
 ## Technologies Used
 
